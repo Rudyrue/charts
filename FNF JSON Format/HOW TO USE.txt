@@ -1,0 +1,3 @@
+some of these charts WILL break if you put them in their respective mods, you'll have to modify some of the values inside of the files yourself in order to get them to work
+
+also most of the charts either have an unfinished or no opponent side to them only because i don't usually chart opponent side

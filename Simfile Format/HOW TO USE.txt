@@ -1,0 +1,7 @@
+simfile charts are used for games like stepmania, etterna, not in the groove, etc.
+you can create and view these charts by using a program called ArrowVortex (https://arrowvortex.ddrnl.com) which is what i use to chart if im not charting on psych
+
+you can also convert these files to the normal fnf format by using a python script that converts them (just search up fnf-to-sm on google you should be able to find it easy)
+at least for me it breaks, so i just use kade engine's built in sm parser to convert it myself
+
+also most of the charts either have an unfinished or no opponent side to them only because i don't usually chart opponent side
