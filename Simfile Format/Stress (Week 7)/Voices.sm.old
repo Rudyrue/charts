@@ -18,6 +18,18 @@
 #STOPS:;
 #BGCHANGES:;
 #FGCHANGES:;
+//--------------- dance-single -  ----------------
+#NOTES:
+     dance-single:
+     :
+     Challenge:
+     1:
+     0,0,0,0,0:
+0000
+0000
+0000
+0000
+;
 //--------------- dance-double -  ----------------
 #NOTES:
      dance-double:
